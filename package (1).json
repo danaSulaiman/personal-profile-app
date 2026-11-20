@@ -1,0 +1,8 @@
+{
+  "name": "personal-profile-app",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
